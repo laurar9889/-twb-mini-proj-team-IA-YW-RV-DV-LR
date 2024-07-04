@@ -45,9 +45,9 @@ https://public.tableau.com/app/profile/daniel.molina.valencia/viz/CanadaTradeDat
 
   ![Trade Summary](https://github.com/laurar9889/-twb-mini-proj-team-IA-YW-RV-DV-LR/assets/159670322/82c53a97-3708-4eb8-b021-b27d3a3b952e)
 
-3. Display the visualizations on a Tableau story and publish it on Tableau Public.
+3. Display the visualizations on a Tableau story and publish it on Tableau Public
 
-## Team member 
+## Team members
 - Laura Roa
 - Daniel Molina Valencia
 - Isabel Angwah
