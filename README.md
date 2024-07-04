@@ -50,10 +50,10 @@ https://public.tableau.com/app/profile/daniel.molina.valencia/viz/CanadaTradeDat
 ---
 
 ## Team member 
-Laura Roa
-Daniel Molina Valencia
-Isabel Angwah
-Ricardo Varela
+Laura Roa,
+Daniel Molina Valencia,
+Isabel Angwah,
+Ricardo Varela,
 Yi Wen
 
 
