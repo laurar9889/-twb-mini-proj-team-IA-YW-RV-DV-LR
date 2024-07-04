@@ -16,7 +16,7 @@ Please, click on the following link to find the answer to each question:
 
 https://public.tableau.com/app/profile/daniel.molina.valencia/viz/CanadaTradeData/CanadaTradeData?publish=yes
 
-![] (Balance_over_10_years.png)
+![alt check] (Balance_over_10_years.png)
 
 
 
