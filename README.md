@@ -27,23 +27,23 @@ https://public.tableau.com/app/profile/daniel.molina.valencia/viz/CanadaTradeDat
 
   2.1. Bubble chart of Exports 2020-2023
 
-  ![alt text](image.png)
+  ![image](https://github.com/laurar9889/-twb-mini-proj-team-IA-YW-RV-DV-LR/assets/159670322/de10b15c-75af-4ee7-bcab-6deb5a6055ab)
 
   2.2. Bubble chart of imports 2020-2023
 
-  ![alt text](image-1.png)
+  ![image](https://github.com/laurar9889/-twb-mini-proj-team-IA-YW-RV-DV-LR/assets/159670322/9b5559a5-efe7-4a43-9534-4ce0c161a9eb)
 
   2.3. Bar chart of trade balance 2020-2023
 
-  ![alt text](image-2.png)
+  ![image](https://github.com/laurar9889/-twb-mini-proj-team-IA-YW-RV-DV-LR/assets/159670322/48375bf5-bd45-44a3-8c5e-c885ac350c29)
 
   2.4. Multi-line chart of trade balance for past 10 years
 
-  ![alt text](image-3.png)
+  ![image](https://github.com/laurar9889/-twb-mini-proj-team-IA-YW-RV-DV-LR/assets/159670322/0a35e41d-2644-4eb1-9b48-2566ff582232)
 
   2.5. Stacked bar chart of trade summary 2020-2023
 
-  ![alt text](image-4.png)
+  ![image](https://github.com/laurar9889/-twb-mini-proj-team-IA-YW-RV-DV-LR/assets/159670322/82c53a97-3708-4eb8-b021-b27d3a3b952e)
 
 3. Display the visualizations on dashboard of story in Tableau
 
